@@ -1,4 +1,5 @@
-### Hi there 👋
+Hello! I am Paul Hurn and I am an IT Security student from Misericordia University.
+I am currently on track to graduate in December 2022 and am hoping to start my career in the InfoSec community.
 
 <!--
 **Paulhurn333/Paulhurn333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
